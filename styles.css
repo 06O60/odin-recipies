@@ -1,0 +1,15 @@
+h1 {
+  text-align: center;  
+}
+body {
+    background-color: #74511ddd;
+    color: rgb(226, 203, 178);
+}
+a {
+    color: white;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
